@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<triviaQuestions>
+	<triviaQuestion>     
+		<gameLevel>
+			<levelId>1</levelId>
+			<levelCategory>1</levelCategory>
+		</gameLevel>
+		<Category>
+			<categoryId>1</categoryId>
+			<categoryName>Sports</categoryName>
+		</Category>
+		<question>What is last name of Federer</question>
+		<options>
+			<option key="1" name="Nadal"/>
+			<option key="2" name="Sachin"/>
+			<option key="3" name="Roger"/>
+			<option key="4" name="Sanath"/>
+		</options>
+		<answerkey>3</answerkey>
+		<mediatype>Text</mediatype>
+		<hint></hint>
+	</triviaQuestion>
+	<triviaQuestion>
+		<gameLevel>
+			<levelId>1</levelId>
+			<levelCategory>1</levelCategory>
+		</gameLevel>
+		<Category>
+			<categoryId>2</categoryId>
+			<categoryName>Politics</categoryName>
+		</Category>
+		<question>What is last name of Aravind</question>
+		<options>
+			<option key="1" name="Kejariwal"/>
+			<option key="2" name="Sachin"/>
+			<option key="3" name="Roger"/>
+			<option key="4" name="Sanath"/>
+		</options>
+		<answerkey>3</answerkey>
+		<mediatype>Text</mediatype>
+		<hint></hint>
+	</triviaQuestion>
+</triviaQuestions>

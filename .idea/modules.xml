@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KnowTrivia.iml" filepath="$PROJECT_DIR$/KnowTrivia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowTrivia/knowTrivia.iml" filepath="$PROJECT_DIR$/knowTrivia/knowTrivia.iml" />
+    </modules>
+  </component>
+</project>
+
